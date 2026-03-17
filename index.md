@@ -38,33 +38,41 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 
 ## Repeaters
 
-<div class="repeaters-list">
+<div class="repeaters-grid">
 
-### VE7CAP - Cranbrook/Kimberley
+<div class="repeater-card">
+<h3>VE7CAP - Cranbrook/Kimberley</h3>
+<img src="images/NEW-14694_cran_kim.gif" alt="Cranbrook/Kimberley Repeater Map">
+<ul>
+<li>Analog FM: 146.940 MHz (-0.600 MHz input, 88.5 Hz tone)</li>
+<li>DMR: 443.550 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1</li>
+</ul>
+</div>
 
-![Cranbrook/Kimberley Repeater Map](images/NEW-14694_cran_kim.gif)
+<div class="repeater-card">
+<h3>VE7RIN - Fairmont/Invermere</h3>
+<img src="images/Fairmont_Invermere_solid.gif" alt="Fairmont/Invermere Repeater Map">
+<ul>
+<li>Analog FM: 146.850 MHz (-0.600 Mhz input, 88.5 Hz tone)</li>
+<li>DMR: 443.850 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1</li>
+</ul>
+</div>
 
-- Analog FM: 146.940 MHz (-0.600 MHz input, 88.5 Hz tone)
-- DMR: 443.550 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1
+<div class="repeater-card">
+<h3>VE7RCA - Creston/Kootenay Lake</h3>
+<img src="images/Creston_solid.gif" alt="Creston/Kootenay Lake Repeater Map">
+<ul>
+<li>146.800 MHz (-0.600 MHz input, 88.5 Hz tone)</li>
+</ul>
+</div>
 
-### VE7RIN - Fairmont/Invermere
-
-![Fairmont/Invermere Repeater Map](images/Fairmont_Invermere_solid.gif)
-
-- Analog FM: 146.850 MHz (-0.600 Mhz input, 88.5 Hz tone)
-- DMR: 443.850 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1
-
-### VE7RCA - Creston/Kootenay Lake
-
-![Creston/Kootenay Lake Repeater Map](images/Creston_solid.gif)
-
-- 146.800 MHz (-0.600 MHz input, 88.5 Hz tone)
-
-### VE7RSQ - Sparwood/Crowsnest
-
-![Sparwood/Crowsnest Repeater Map](images/Sparwood_Crowsnest_solid.gif)
-
-- 147.300 (+0.600 MHz input, 100 Hz tone)
+<div class="repeater-card">
+<h3>VE7RSQ - Sparwood/Crowsnest</h3>
+<img src="images/Sparwood_Crowsnest_solid.gif" alt="Sparwood/Crowsnest Repeater Map">
+<ul>
+<li>147.300 (+0.600 MHz input, 100 Hz tone)</li>
+</ul>
+</div>
 
 </div>
 
