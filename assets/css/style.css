@@ -193,7 +193,8 @@ li {
 }
 
 .repeater-card img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   height: auto;
   margin-bottom: 0.75rem;
   border-radius: 4px;
