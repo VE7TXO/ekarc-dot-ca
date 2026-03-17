@@ -1,7 +1,7 @@
 title: "East Kootenay Amateur Radio Club"
 description: "East Kootenay Amateur Radio Club - Serving the East Kootenay region since 1935"
-url: "https://ekarc.ca"
-baseurl: ""
+url: "https://ve7txo.github.io"
+baseurl: "/ekarc-dot-ca"
 
 # Build settings
 markdown: kramdown
@@ -22,19 +22,19 @@ navigation:
   - title: Home
     url: /
   - title: Members
-    url: /members/
+    url: /members
   - title: Minutes
-    url: /minutes/
+    url: /minutes
   - title: News/Events
-    url: /news-events/
+    url: /news-events
   - title: Ham Links
-    url: /ham-links/
+    url: /ham-links
   - title: Photo Gallery
-    url: /photo-gallery/
+    url: /photo-gallery
   - title: Swap and Shop
-    url: /swap-and-shop/
+    url: /swap-and-shop
   - title: Contact
-    url: /contact/
+    url: /contact
 
 # Collections
 collections:
