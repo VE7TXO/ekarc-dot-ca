@@ -38,6 +38,8 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 
 ## Repeaters
 
+<div class="repeaters-list">
+
 ### VE7CAP - Cranbrook/Kimberley
 
 ![Cranbrook/Kimberley Repeater Map](images/NEW-14694_cran_kim.gif)
@@ -63,6 +65,8 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 ![Sparwood/Crowsnest Repeater Map](images/Sparwood_Crowsnest_solid.gif)
 
 - 147.300 (+0.600 MHz input, 100 Hz tone)
+
+</div>
 
 ---
 

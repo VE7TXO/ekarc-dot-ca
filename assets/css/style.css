@@ -169,12 +169,26 @@ li {
 
 /* Links Section (Ham Links page) */
 .content ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* Repeaters - Home page */
+.repeaters-list ul {
   list-style: none;
-  margin-bottom: 0.75rem;
   padding-left: 0;
 }
 
-.content ul li::before {
+.repeaters-list li::before {
+  content: "📻 ";
+}
+
+/* Members list - with radio icon */
+.members-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.members-list li::before {
   content: "📻 ";
 }
 
