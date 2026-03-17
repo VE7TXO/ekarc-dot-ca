@@ -256,6 +256,35 @@ img {
   border-radius: 4px;
 }
 
+/* Members Grid */
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.members-grid ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.members-grid li {
+  padding: 0.25rem 0;
+}
+
+@media (max-width: 900px) {
+  .members-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .members-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Image Gallery Grid */
 .content img {
   margin: 0.5rem;

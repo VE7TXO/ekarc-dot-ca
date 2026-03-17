@@ -14,81 +14,96 @@ title: "Members"
 
 ## Our Members
 
-- Adam Smallwood CALLTBD
-- Arlene Curtis CALLTBD
-- Brad Laberge CALLTBD
-- Karmin Snow CALLTBD
-- Ken Jarabek CALLTBD
-- Kenley Barros CALLTBD
-- Laura Newberry CALLTBD
-- Luc Drummond CALLTBD
-- Samantha Chenier CALLTBD
-- Stuart Rowles CALLTBD
-- Jeff Pollock VA7BAJ
-- Wayne Mercer VA7BUP
-- Doug Archibald VA7DTB
-- Cindy Dye VA7DYE
-- David Scholl VA7EHI
-- April Erikson VA7EJA
-- Evan Berry VA7EWB
-- Terry Watts VA7GVR
-- Griffin Windsor VA7GWX
-- Diana Brooks VA7HBB
-- Dan Hamilton VA7HCW
-- Brett Vaile VA7ILZ
-- Gerry Loewen VA7LGR
-- Jeff Marshall VA7MCY
-- Simran Sandhu VA7PUJ
-- Doug Newberry VA7QZ
-- Rebecca Baxter VA7RBQ
-- Joel Shearer VA7SJD
-- Brian Veitenheimer VA7VEB
-- Bob Livingston VA7WN
-- Ken Betenia VA7WY
-- Chris Mellis VA7XCM
-- Russ Jackson VA7XRJ
-- Stephen Hill VA7XTP
-- Denise Woodford VA7YE
-- Richard Shortridge VA7ZYQ
-- Ron Leech VE6TV
-- Dave Carlson VE7AQE
-- Charles Bacon VE7CRB
-- Randy Miller VE7CRX
-- Vera Hohl VE7CZA
-- George Hohl VE7CZE
-- Arnold Schultz VE7CZI
-- David Walls VE7DLR
-- Julio Dusablon VE7DQR
-- Shane Dye VE7DYE
-- Edward Ehrler VE7EDQ
-- Evan Korpan VE7ENK
-- Nathon Hall VE7ETS
-- Jared Gross VE7FTS
-- Gavin Jacobs VE7GSJ
-- Doug Hogg VE7HSD
-- Jeff Curtis VE7JFX
-- Lance Cuthill VE7LOC
-- Lydon Simmons VE7LTS
-- Algirdas Brunovas VE7LTU
-- Mel Battel VE7MEL
-- Ken MacDonald VE7NEK
-- Bob Young VE7PPC
-- Timothy Graham VE7QQ
-- Randy Willoughby VE7RPY
-- Wayne Day VE7RWD
-- Tom Arscott VE7TGA
-- Judy Walls VE7TLJ
-- Alex Hickey VE7TND
-- Tony Parchomchuk VE7TPC
-- Aaron Goos VE7TXO
-- Chris Jacques VE7UAF
-- Chris Carpenter VE7UTV
-- Dan Cameron VE7VU
-- Wendy Hogg VE7WCH
-- James Hooper VE7WDW
-- Linda Leavitt VE7WWN
-- Tyler Carpenter VE7XXC
-- Bobbi Cuthill VE7ZIP
+<div class="members-grid">
+
+<ul>
+<li>Adam Smallwood CALLTBD</li>
+<li>Arlene Curtis CALLTBD</li>
+<li>Brad Laberge CALLTBD</li>
+<li>Karmin Snow CALLTBD</li>
+<li>Ken Jarabek CALLTBD</li>
+<li>Kenley Barros CALLTBD</li>
+<li>Laura Newberry CALLTBD</li>
+<li>Luc Drummond CALLTBD</li>
+<li>Samantha Chenier CALLTBD</li>
+<li>Stuart Rowles CALLTBD</li>
+<li>Jeff Pollock VA7BAJ</li>
+<li>Wayne Mercer VA7BUP</li>
+<li>Doug Archibald VA7DTB</li>
+<li>Cindy Dye VA7DYE</li>
+<li>David Scholl VA7EHI</li>
+<li>April Erikson VA7EJA</li>
+<li>Evan Berry VA7EWB</li>
+<li>Terry Watts VA7GVR</li>
+<li>Griffin Windsor VA7GWX</li>
+<li>Diana Brooks VA7HBB</li>
+</ul>
+
+<ul>
+<li>Dan Hamilton VA7HCW</li>
+<li>Brett Vaile VA7ILZ</li>
+<li>Gerry Loewen VA7LGR</li>
+<li>Jeff Marshall VA7MCY</li>
+<li>Simran Sandhu VA7PUJ</li>
+<li>Doug Newberry VA7QZ</li>
+<li>Rebecca Baxter VA7RBQ</li>
+<li>Joel Shearer VA7SJD</li>
+<li>Brian Veitenheimer VA7VEB</li>
+<li>Bob Livingston VA7WN</li>
+<li>Ken Betenia VA7WY</li>
+<li>Chris Mellis VA7XCM</li>
+<li>Russ Jackson VA7XRJ</li>
+<li>Stephen Hill VA7XTP</li>
+<li>Denise Woodford VA7YE</li>
+<li>Richard Shortridge VA7ZYQ</li>
+<li>Ron Leech VE6TV</li>
+<li>Dave Carlson VE7AQE</li>
+<li>Charles Bacon VE7CRB</li>
+<li>Randy Miller VE7CRX</li>
+</ul>
+
+<ul>
+<li>Vera Hohl VE7CZA</li>
+<li>George Hohl VE7CZE</li>
+<li>Arnold Schultz VE7CZI</li>
+<li>David Walls VE7DLR</li>
+<li>Julio Dusablon VE7DQR</li>
+<li>Shane Dye VE7DYE</li>
+<li>Edward Ehrler VE7EDQ</li>
+<li>Evan Korpan VE7ENK</li>
+<li>Nathon Hall VE7ETS</li>
+<li>Jared Gross VE7FTS</li>
+<li>Gavin Jacobs VE7GSJ</li>
+<li>Doug Hogg VE7HSD</li>
+<li>Jeff Curtis VE7JFX</li>
+<li>Lance Cuthill VE7LOC</li>
+<li>Lydon Simmons VE7LTS</li>
+<li>Algirdas Brunovas VE7LTU</li>
+<li>Mel Battel VE7MEL</li>
+<li>Ken MacDonald VE7NEK</li>
+<li>Bob Young VE7PPC</li>
+<li>Timothy Graham VE7QQ</li>
+</ul>
+
+<ul>
+<li>Randy Willoughby VE7RPY</li>
+<li>Wayne Day VE7RWD</li>
+<li>Tom Arscott VE7TGA</li>
+<li>Judy Walls VE7TLJ</li>
+<li>Alex Hickey VE7TND</li>
+<li>Tony Parchomchuk VE7TPC</li>
+<li>Aaron Goos VE7TXO</li>
+<li>Chris Jacques VE7UAF</li>
+<li>Chris Carpenter VE7UTV</li>
+<li>Dan Cameron VE7VU</li>
+<li>Wendy Hogg VE7WCH</li>
+<li>James Hooper VE7WDW</li>
+<li>Linda Leavitt VE7WWN</li>
+<li>Tyler Carpenter VE7XXC</li>
+<li>Bobbi Cuthill VE7ZIP</li>
+</ul>
+
+</div>
 
 ---
 
