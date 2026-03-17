@@ -257,31 +257,27 @@ img {
 }
 
 /* Members Grid */
-.members-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-}
-
-.members-grid ul {
+.members-list {
+  column-count: 3;
+  column-gap: 2rem;
+  padding-left: 0;
   list-style: none;
-  padding: 0;
-  margin: 0;
 }
 
-.members-grid li {
+.members-list li {
   padding: 0.25rem 0;
+  break-inside: avoid;
 }
 
 @media (max-width: 900px) {
-  .members-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .members-list {
+    column-count: 2;
   }
 }
 
 @media (max-width: 600px) {
-  .members-grid {
-    grid-template-columns: 1fr;
+  .members-list {
+    column-count: 1;
   }
 }
 

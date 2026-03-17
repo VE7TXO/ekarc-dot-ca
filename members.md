@@ -14,9 +14,7 @@ title: "Members"
 
 ## Our Members
 
-<div class="members-grid">
-
-<ul>
+<ul class="members-list">
 <li>Adam Smallwood CALLTBD</li>
 <li>Arlene Curtis CALLTBD</li>
 <li>Brad Laberge CALLTBD</li>
@@ -37,9 +35,6 @@ title: "Members"
 <li>Terry Watts VA7GVR</li>
 <li>Griffin Windsor VA7GWX</li>
 <li>Diana Brooks VA7HBB</li>
-</ul>
-
-<ul>
 <li>Dan Hamilton VA7HCW</li>
 <li>Brett Vaile VA7ILZ</li>
 <li>Gerry Loewen VA7LGR</li>
@@ -60,9 +55,6 @@ title: "Members"
 <li>Dave Carlson VE7AQE</li>
 <li>Charles Bacon VE7CRB</li>
 <li>Randy Miller VE7CRX</li>
-</ul>
-
-<ul>
 <li>Vera Hohl VE7CZA</li>
 <li>George Hohl VE7CZE</li>
 <li>Arnold Schultz VE7CZI</li>
@@ -83,9 +75,6 @@ title: "Members"
 <li>Ken MacDonald VE7NEK</li>
 <li>Bob Young VE7PPC</li>
 <li>Timothy Graham VE7QQ</li>
-</ul>
-
-<ul>
 <li>Randy Willoughby VE7RPY</li>
 <li>Wayne Day VE7RWD</li>
 <li>Tom Arscott VE7TGA</li>
@@ -102,8 +91,6 @@ title: "Members"
 <li>Tyler Carpenter VE7XXC</li>
 <li>Bobbi Cuthill VE7ZIP</li>
 </ul>
-
-</div>
 
 ---
 
