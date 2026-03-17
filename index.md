@@ -36,31 +36,41 @@ Join the province-wide DMR net on BC1 every Friday night at 21:00 Mountain Time 
 
 Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time on 144.200 MHz USB!
 
-## Club Events Calendar
-
-<center>
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FEdmonton&amp;showTitle=0&amp;showCalendars=0&amp;showTabs=0&amp;src=dmU3cXFAZWthcmMuY2E&amp;color=%23039BE5" style="border:solid 1px #777" width="85%" height="500" frameborder="0" scrolling="no"></iframe>
-</center>
-
 ## Repeaters
 
 ### VE7CAP - Cranbrook/Kimberley
+
+![Cranbrook/Kimberley Repeater Map](images/NEW-14694_cran_kim.gif)
 
 - Analog FM: 146.940 MHz (-0.600 MHz input, 88.5 Hz tone)
 - DMR: 443.550 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1
 
 ### VE7RIN - Fairmont/Invermere
 
+![Fairmont/Invermere Repeater Map](images/Fairmont_Invermere_solid.gif)
+
 - Analog FM: 146.850 MHz (-0.600 Mhz input, 88.5 Hz tone)
 - DMR: 443.850 MHz +5 MHz offset, TG: 30271, TS: 1, CC: 1
 
 ### VE7RCA - Creston/Kootenay Lake
 
+![Creston/Kootenay Lake Repeater Map](images/Creston_solid.gif)
+
 - 146.800 MHz (-0.600 MHz input, 88.5 Hz tone)
 
 ### VE7RSQ - Sparwood/Crowsnest
 
+![Sparwood/Crowsnest Repeater Map](images/Sparwood_Crowsnest_solid.gif)
+
 - 147.300 (+0.600 MHz input, 100 Hz tone)
+
+---
+
+## Club Events Calendar
+
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FEdmonton&amp;showTitle=0&amp;showCalendars=0&amp;showTabs=0&amp;src=dmU3cXFAZWthcmMuY2E&amp;color=%23039BE5" style="border:solid 1px #777" width="85%" height="500" frameborder="0" scrolling="no"></iframe>
+</center>
 
 ---
 
