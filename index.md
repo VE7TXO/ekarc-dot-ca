@@ -36,6 +36,12 @@ Join the province-wide DMR net on BC1 every Friday night at 21:00 Mountain Time 
 
 Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time on 144.200 MHz USB!
 
+## Club Events Calendar
+
+<center>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FEdmonton&amp;showTitle=0&amp;showCalendars=0&amp;showTabs=0&amp;src=dmU3cXFAZWthcmMuY2E&amp;color=%23039BE5" style="border:solid 1px #777" width="85%" height="500" frameborder="0" scrolling="no"></iframe>
+</center>
+
 ## Repeaters
 
 ### VE7CAP - Cranbrook/Kimberley
