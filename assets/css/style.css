@@ -193,10 +193,10 @@ li {
 }
 
 .repeater-card img {
-  width: auto;
+  display: block;
+  margin: 0 auto 0.75rem;
   max-width: 100%;
   height: auto;
-  margin-bottom: 0.75rem;
   border-radius: 4px;
 }
 

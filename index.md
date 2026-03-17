@@ -41,7 +41,7 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 <div class="repeaters-grid">
 
 <div class="repeater-card">
-<h3>VE7CAP - Cranbrook/Kimberley</h3>
+<h3>VE7CAP<br>Cranbrook/Kimberley</h3>
 <img src="images/NEW-14694_cran_kim.gif" alt="Cranbrook/Kimberley Repeater Map">
 <ul>
 <li>Analog FM: 146.940 MHz (-0.600 MHz input, 88.5 Hz tone)</li>
@@ -50,7 +50,7 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 </div>
 
 <div class="repeater-card">
-<h3>VE7RIN - Fairmont/Invermere</h3>
+<h3>VE7RIN<br>Fairmont/Invermere</h3>
 <img src="images/Fairmont_Invermere_solid.gif" alt="Fairmont/Invermere Repeater Map">
 <ul>
 <li>Analog FM: 146.850 MHz (-0.600 Mhz input, 88.5 Hz tone)</li>
@@ -59,7 +59,7 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 </div>
 
 <div class="repeater-card">
-<h3>VE7RCA - Creston/Kootenay Lake</h3>
+<h3>VE7RCA<br>Creston/Kootenay Lake</h3>
 <img src="images/Creston_solid.gif" alt="Creston/Kootenay Lake Repeater Map">
 <ul>
 <li>146.800 MHz (-0.600 MHz input, 88.5 Hz tone)</li>
@@ -67,7 +67,7 @@ Join the local VHF simplex sideband net Sunday mornings at 10:00 Mountain Time o
 </div>
 
 <div class="repeater-card">
-<h3>VE7RSQ - Sparwood/Crowsnest</h3>
+<h3>VE7RSQ<br>Sparwood/Crowsnest</h3>
 <img src="images/Sparwood_Crowsnest_solid.gif" alt="Sparwood/Crowsnest Repeater Map">
 <ul>
 <li>147.300 (+0.600 MHz input, 100 Hz tone)</li>
