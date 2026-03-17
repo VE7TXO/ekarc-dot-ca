@@ -1,0 +1,55 @@
+title: "East Kootenay Amateur Radio Club"
+description: "East Kootenay Amateur Radio Club - Serving the East Kootenay region since 1935"
+url: "https://ekarc.ca"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Minima theme settings
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/ekarc"
+    - platform: facebook
+      user_url: "https://www.facebook.com/EKARC.ca"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Members
+    url: /members/
+  - title: Minutes
+    url: /minutes/
+  - title: News/Events
+    url: /news-events/
+  - title: Ham Links
+    url: /ham-links/
+  - title: Photo Gallery
+    url: /photo-gallery/
+  - title: Swap and Shop
+    url: /swap-and-shop/
+  - title: Contact
+    url: /contact/
+
+# Collections
+collections:
+  minutes:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: page
+    values:
+      layout: default
+  - scope:
+      path: "minutes-meeting"
+      type: page
+    values:
+      layout: default
